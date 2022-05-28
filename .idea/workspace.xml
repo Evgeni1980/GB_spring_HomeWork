@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20d718b1-9eba-46a9-908e-c1748e4e3d84" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01-servlet/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01-servlet/src/main/java/ru/gb/FirsHttpServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01-servlet/src/main/java/ru/gb/FirstServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01-servlet/src/main/java/ru/gb/ProductServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01-servlet/src/main/java/ru/gb/persist/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01-servlet/src/main/java/ru/gb/persist/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="20d718b1-9eba-46a9-908e-c1748e4e3d84" name="Changes" comment="HomeWork 1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -46,8 +41,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17 (2)",
     "last_opened_file_path": "C:/Users/PC/IdeaProjects/geek-spring-homeWork_1",
@@ -95,8 +92,16 @@
       <option name="presentableId" value="Default" />
       <updated>1653565063758</updated>
       <workItem from="1653565065119" duration="6343000" />
-      <workItem from="1653760722190" duration="664000" />
+      <workItem from="1653760722190" duration="1201000" />
     </task>
+    <task id="LOCAL-00001" summary="HomeWork 1">
+      <created>1653761573115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653761573116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,5 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="HomeWork 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork 1" />
   </component>
 </project>
